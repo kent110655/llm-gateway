@@ -1,0 +1,13 @@
+# binaries
+/bin/
+*.exe
+# test / coverage
+*.out
+coverage.*
+# env & secrets
+.env
+*.local.yaml
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
